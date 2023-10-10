@@ -12,8 +12,8 @@ This chatbot application is built using Flask and the DialoGPT model from the `t
 
 1. **Clone the Repository**:
    ```bash
-   git clone [[repository-link](https://github.com/abubakar-sani/flask_chatbot_project)]
-   cd [flask_chatbot_project]
+   git clone https://github.com/abubakar-sani/flask_chatbot_project
+   cd flask_chatbot_project
    ```
 
 2. **Install Dependencies**:
